@@ -20,7 +20,7 @@ export const artworks = [
     title: "Lagen van Jupiter",
     artist: "You",
     year: 2026,
-    image: "/images/jupitierlayers.jpg",
+    image: "/ArtGallery/images/jupitierlayers.jpg",
     description: "Lagen van Jupiter"
   },
   // {
@@ -36,7 +36,7 @@ export const artworks = [
     title: "No name",
     artist: "You",
     year: 2026,
-    image: "/images/Art_pinkheart.jpg",
+    image: "/ArtGallery//images/Art_pinkheart.jpg",
     description: "With Friends III"
   },
         {
@@ -44,7 +44,7 @@ export const artworks = [
     title: "No name",
     artist: "You",
     year: 2026,
-    image: "/images/storm.jpg",
+    image: "/ArtGallery/images/storm.jpg",
     description: "With Friends III"
   },
   {
@@ -52,7 +52,7 @@ export const artworks = [
     title: "Tuin van Raman",
     artist: "You",
     year: 2026,
-    image: "/images/ramans_garden.jpg",
+    image: "/ArtGallery/images/ramans_garden.jpg",
     description: "Tuin van Raman"
   },
   {
@@ -60,7 +60,7 @@ export const artworks = [
     title: "Roodkleurige Dans",
     artist: "You",
     year: 2026,
-    image: "/images/redish_dance.jpg",
+    image: "/ArtGallery/images/redish_dance.jpg",
     description: "Roodkleurige Dans"
   },
   {
@@ -68,7 +68,7 @@ export const artworks = [
     title: "Dual",
     artist: "You",
     year: 2026,
-    image: "/images/dual.jpg",
+    image: "/ArtGallery/images/dual.jpg",
     description: "Dual"
   },
   {
@@ -76,7 +76,7 @@ export const artworks = [
     title: "Wilde Jungle",
     artist: "You",
     year: 2026,
-    image: "/images/wilde_jungle.jpg",
+    image: "/ArtGallery/images/wilde_jungle.jpg",
     description: "Wilde Jungle"
   },
   // {
@@ -92,7 +92,7 @@ export const artworks = [
     title: "Uit de Ogen van de Vogels",
     artist: "You",
     year: 2026,
-    image: "/images/birdsview.jpg",
+    image: "/ArtGallery/images/birdsview.jpg",
     description: "Uit de Ogen van de Vogels"
   },
           {
@@ -100,7 +100,7 @@ export const artworks = [
     title: "No name",
     artist: "You",
     year: 2026,
-    image: "/images/20260724_191432.jpg",
+    image: "/ArtGallery/images/20260724_191432.jpg",
     description: ""
   },
   //       {
@@ -116,7 +116,7 @@ export const artworks = [
     title: "No Name",
     artist: "You",
     year: 2026,
-    image: "/images/20260725_180042.jpg",
+    image: "/ArtGallery/images/20260725_180042.jpg",
     description: "Yellow Spark"
   },
   {
@@ -124,7 +124,7 @@ export const artworks = [
     title: "No Name",
     artist: "You",
     year: 2026,
-    image: "/images/20260725_191505.jpg",
+    image: "/ArtGallery/images/20260725_191505.jpg",
     description: "Uit de Ogen van de Vogels"
   },
           {
@@ -132,7 +132,7 @@ export const artworks = [
     title: "No name",
     artist: "You",
     year: 2026,
-    image: "/images/20260726_125040.jpg",
+    image: "/ArtGallery/images/20260726_125040.jpg",
     description: ""
   },
         {
@@ -140,7 +140,7 @@ export const artworks = [
     title: "No name",
     artist: "You",
     year: 2026,
-    image: "/images/20260726_125211.jpg",
+    image: "/ArtGallery/images/20260726_125211.jpg",
     description: ""
   }
   // {
