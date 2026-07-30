@@ -10,7 +10,7 @@ export default function Gallery() {
   const navigate = useNavigate();
   
   function shoot(id) {
-    navigate(`/paintings/${id}`);
+    navigate(`/ArtGallery/paintings/${id}`);
   }
 
 

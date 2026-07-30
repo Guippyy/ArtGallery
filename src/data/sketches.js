@@ -4,7 +4,7 @@ export const sketches = [
     title: "Concept I",
     artist: "You",
     year: 2026,
-    image: "/images/concept1.jpg",
+    image: "/ArtGallery/images/concept1.jpg",
     description: ""
   },
   {
@@ -12,7 +12,7 @@ export const sketches = [
     title: "Concept II",
     artist: "You",
     year: 2026,
-    image: "/images/concept2.jpg",
+    image: "/ArtGallery/images/concept2.jpg",
     description: ""
   },
   {
@@ -20,7 +20,7 @@ export const sketches = [
     title: "Concept III",
     artist: "You",
     year: 2026,
-    image: "/images/concept3.jpg",
+    image: "/ArtGallery/images/concept3.jpg",
     description: ""
   },
   {
@@ -28,7 +28,7 @@ export const sketches = [
     title: "Concept IV",
     artist: "You",
     year: 2026,
-    image: "/images/concept4.jpg",
+    image: "/ArtGallery/images/concept4.jpg",
     description: ""
   },
   {
@@ -36,7 +36,7 @@ export const sketches = [
     title: "Concept V",
     artist: "You",
     year: 2026,
-    image: "/images/concept5.jpg",
+    image: "/ArtGallery/images/concept5.jpg",
     description: ""
   },
   {
