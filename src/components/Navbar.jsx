@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <NavLink
-        to="/"
+        to="/ArtGallery/"
         end
         className={({ isActive }) => (isActive ? "nav-link active" : "nav-link")}
       >
@@ -13,14 +13,14 @@ function Navbar() {
       </NavLink>
 
       <NavLink
-        to="/sketches"
+        to="/ArtGallery/sketches"
         className={({ isActive }) => (isActive ? "nav-link active" : "nav-link")}
       >
         Sketches
       </NavLink>
 
       <NavLink
-        to="/about"
+        to="/ArtGallery/about"
         className={({ isActive }) => (isActive ? "nav-link active" : "nav-link")}
       >
         About
