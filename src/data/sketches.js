@@ -44,7 +44,7 @@ export const sketches = [
     title: "Concept VI",
     artist: "You",
     year: 2026,
-    image: "/images/concept6.jpg",
+    image: "/ArtGallery/images/concept6.jpg",
     description: ""
   },
   {
@@ -52,7 +52,7 @@ export const sketches = [
     title: "Concept VII",
     artist: "You",
     year: 2026,
-    image: "/images/concept7.jpg",
+    image: "/ArtGallery/images/concept7.jpg",
     description: ""
   },
   {
@@ -60,7 +60,7 @@ export const sketches = [
     title: "Concept VIII",
     artist: "You",
     year: 2026,
-    image: "/images/concept8.jpg",
+    image: "/ArtGallery/images/concept8.jpg",
     description: ""
   },
   {
@@ -68,7 +68,7 @@ export const sketches = [
     title: "Concept IX",
     artist: "You",
     year: 2026,
-    image: "/images/concept9.jpg",
+    image: "/ArtGallery/images/concept9.jpg",
     description: ""
   },
   {
@@ -76,7 +76,7 @@ export const sketches = [
     title: "Concept X",
     artist: "You",
     year: 2026,
-    image: "/images/concept10.jpg",
+    image: "/ArtGallery/images/concept10.jpg",
     description: ""
   },
   {
@@ -84,7 +84,7 @@ export const sketches = [
     title: "Concept XI",
     artist: "You",
     year: 2026,
-    image: "/images/conceptx.jpg",
+    image: "/ArtGallery/images/conceptx.jpg",
     description: ""
   },
   {
@@ -92,7 +92,7 @@ export const sketches = [
     title: "Concept XII",
     artist: "You",
     year: 2026,
-    image: "/images/conceptxx.jpg",
+    image: "/ArtGallery/images/conceptxx.jpg",
     description: ""
   },
   {
@@ -100,7 +100,7 @@ export const sketches = [
     title: "Concept XIII",
     artist: "You",
     year: 2026,
-    image: "/images/conceptxxx.jpg",
+    image: "/ArtGallery/images/conceptxxx.jpg",
     description: ""
   },
   {
@@ -108,7 +108,7 @@ export const sketches = [
     title: "Concept XIV",
     artist: "You",
     year: 2026,
-    image: "/images/conceptxxxx.jpg",
+    image: "/ArtGallery/images/conceptxxxx.jpg",
     description: ""
   },
     {
@@ -116,7 +116,7 @@ export const sketches = [
     title: "Concept XV",
     artist: "You",
     year: 2026,
-    image: "/images/spacecrafy_sketch.jpg",
+    image: "/ArtGallery/images/spacecrafy_sketch.jpg",
     description: ""
   },
       {
@@ -124,7 +124,7 @@ export const sketches = [
     title: "Concept XVI",
     artist: "You",
     year: 2026,
-    image: "/images/writing.jpg",
+    image: "/ArtGallery/images/writing.jpg",
     description: ""
   }
 ];

@@ -6,7 +6,7 @@ export default function About(){
     <Navbar/>
     <p>Totus tuus.</p>
 
-    <img src="../public/images/cat_moths_funny_216798_1920x1080.jpg"></img>
+    <img src="/ArtGallery/images/cat_moths_funny_216798_1920x1080.jpg"></img>
     </>
     )
 }

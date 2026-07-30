@@ -4,7 +4,7 @@ export const artworks = [
     title: "Face To Face",
     artist: "You",
     year: 2026,
-    image: "/images/face_to_face.jpg",
+    image: "/ArtGallery/images/face_to_face.jpg",
     description: "Face To Face"
   },
   {
@@ -12,7 +12,7 @@ export const artworks = [
     title: "Formaliteit",
     artist: "You",
     year: 2026,
-    image: "/images/formaliteit.jpg",
+    image: "/ArtGallery/images/formaliteit.jpg",
     description: "Formaliteit"
   },
   {
