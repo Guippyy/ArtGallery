@@ -10,10 +10,10 @@ import Painting from './pages/Painting';
 export default function App() {
   return (
     <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/sketches" element={<Sketches />} />
-      <Route path="/about" element={<About />} />
-      <Route path="/paintings/:id" element={<Painting />} />
+      <Route path="/ArtGallery/" element={<Home />} />
+      <Route path="/ArtGallery/sketches" element={<Sketches />} />
+      <Route path="/ArtGallery/about" element={<About />} />
+      <Route path="/ArtGallery/paintings/:id" element={<Painting />} />
     </Routes>
   );
 }
