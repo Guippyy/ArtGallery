@@ -1,0 +1,46 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+
+    padding: 2rem 0;
+    background: #000;
+}
+
+.nav-link {
+    position: relative;
+
+    color: #fff;
+    text-decoration: none;
+
+    font-size: 0.95rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+
+    transition: color 0.3s ease;
+}
+
+/* Underline */
+.nav-link::after {
+    content: "";
+    position: absolute;
+
+    left: 0;
+    bottom: -6px;
+
+    width: 0%;
+    height: 1px;
+
+    background: #fff;
+    transition: width 0.3s ease;
+}
+
+/* Hover animation */
+.nav-link:hover::after {
+    width: 100%;
+}
+
+/* Active page */
+.nav-link.active::after {
+    width: 100%;
+}
