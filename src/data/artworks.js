@@ -31,7 +31,7 @@ export const artworks = [
   //   image: "/images/nothing.jpg",
   //   description: "Mixed Nothing"
   // },
-        {
+  {
     id: 5,
     title: "No name",
     artist: "You",
@@ -39,7 +39,7 @@ export const artworks = [
     image: "/ArtGallery//images/Art_pinkheart.jpg",
     description: "With Friends III"
   },
-        {
+  {
     id: 6,
     title: "No name",
     artist: "You",
@@ -60,7 +60,7 @@ export const artworks = [
     title: "Roodkleurige Dans",
     artist: "You",
     year: 2026,
-    image: "/ArtGallery/images/redish_dance.jpg",
+  image: "/ArtGallery/images/in/20260803_184304.jpg",
     description: "Roodkleurige Dans"
   },
   {
@@ -95,7 +95,7 @@ export const artworks = [
     image: "/ArtGallery/images/birdsview.jpg",
     description: "Uit de Ogen van de Vogels"
   },
-          {
+  {
     id: 13,
     title: "No name",
     artist: "You",
@@ -111,13 +111,13 @@ export const artworks = [
   //   image: "/images/20260724_191527.jpg",
   //   description: ""
   // },
-    {
+  {
     id: 15,
-    title: "No Name",
+    title: "No name",
     artist: "You",
     year: 2026,
-    image: "/ArtGallery/images/20260725_180042.jpg",
-    description: "Yellow Spark"
+    image: "/ArtGallery/images/in/20260803_184333.jpg",
+    description: ""
   },
   {
     id: 16,
@@ -127,7 +127,7 @@ export const artworks = [
     image: "/ArtGallery/images/20260725_191505.jpg",
     description: "Uit de Ogen van de Vogels"
   },
-          {
+  {
     id: 17,
     title: "No name",
     artist: "You",
@@ -135,14 +135,54 @@ export const artworks = [
     image: "/ArtGallery/images/20260726_125040.jpg",
     description: ""
   },
-        {
+  {
     id: 18,
     title: "No name",
     artist: "You",
     year: 2026,
     image: "/ArtGallery/images/20260726_125211.jpg",
     description: ""
-  }
+  },
+  {
+    id: 19,
+    title: "No name",
+    artist: "You",
+    year: 2026,
+    image: "/ArtGallery/images/in/20260803_183716.jpg",
+    description: ""
+  },
+  {
+    id: 20,
+    title: "No name",
+    artist: "You",
+    year: 2026,
+    image: "/ArtGallery/images/in/20260803_183748.jpg",
+    description: ""
+  },
+  {
+    id: 21,
+    title: "No name",
+    artist: "You",
+    year: 2026,
+    image: "/ArtGallery/images/in/20260803_183845.jpg",
+    description: ""
+  },
+  // {
+  //   id: 22,
+  //   title: "No name",
+  //   artist: "You",
+  //   year: 2026,
+  //   image: "/ArtGallery/images/in/20260803_184304.jpg",
+  //   description: ""
+  // },
+  // {
+  //   id: 23,
+  //   title: "No name",
+  //   artist: "You",
+  //   year: 2026,
+  //   image: "/ArtGallery/images/in/20260803_184333.jpg",
+  //   description: ""
+  // }
   // {
   //   id: 11,
   //   title: "With Friends I",

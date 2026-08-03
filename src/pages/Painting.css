@@ -1,4 +1,4 @@
-.painting-page {
+/* .painting-page {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -16,4 +16,61 @@
 .painting-info {
   margin-top: 1.5rem;
   text-align: center;
+} */
+
+
+.painting-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2.5rem 1.5rem 4rem;
+}
+
+.back-link {
+  align-self: flex-start;
+  margin: 0 0 2rem;
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  text-decoration: none;
+  transition: color 0.25s ease;
+}
+
+.back-link:hover {
+  color: var(--accent);
+}
+
+.painting-image {
+  max-width: min(90vw, 1000px);
+  max-height: 75vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0 24px 48px rgba(0, 0, 0, 0.5);
+}
+
+.painting-info {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.painting-info h1 {
+  margin-bottom: 6px;
+}
+
+.painting-info p {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+@media (max-width: 640px) {
+  .painting-page {
+    padding: 1.5rem 1rem 3rem;
+  }
 }
