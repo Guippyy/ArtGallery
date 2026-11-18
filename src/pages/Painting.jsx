@@ -57,6 +57,7 @@ export default function Painting() {
 
         <div className="painting-info">
           <h1>{painting.title}</h1>
+          <h3>{painting.description}</h3>
           <p>{painting.artist}{painting.year ? ` \u00b7 ${painting.year}` : ""}</p>
         </div>
       </div>

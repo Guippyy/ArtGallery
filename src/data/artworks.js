@@ -1,6 +1,105 @@
 export const artworks = [
+      {
+    id: 1,
+    title: "No name",
+    artist: "You",
+    year: 2026,
+    image: "/ArtGallery/images/blueandyellow.jpg",
+    description: ""
+  },
+        {
+    id: 2,
+    title: "No name",
+    artist: "You",
+    year: 2026,
+    image: "/ArtGallery/images/bluemath7.jpg",
+    description: "In Private Collection"
+  },
+        {
+    id: 3,
+    title: "No name",
+    artist: "You",
+    year: 2026,
+    image: "/ArtGallery/images/darkflowers.jpg",
+    description: ""
+  },
+      {
+    id: 4,
+    title: "No name",
+    artist: "You",
+    year: 2026,
+    image: "/ArtGallery/images/devils.jpg",
+    description: ""
+  },
+
+        {
+    id: 5,
+    title: "No name",
+    artist: "You",
+    year: 2026,
+    image: "/ArtGallery/images/evil eyes.jpg",
+    description: ""
+  },
+
+      {
+    id: 6,
+    title: "No name",
+    artist: "You",
+    year: 2026,
+    image: "/ArtGallery/images/farm.jpg",
+    description: "In Private Collection"
+  },
+        {
+    id: 7,
+    title: "No name",
+    artist: "You",
+    year: 2026,
+    image: "/ArtGallery/images/freddy.jpg",
+    description: "In Private Collection"
+  },
+      {
+    id: 8,
+    title: "No name",
+    artist: "You",
+    year: 2026,
+    image: "/ArtGallery/images/letgoo.jpg",
+    description: ""
+  },
+        {
+    id: 9,
+    title: "No name",
+    artist: "You",
+    year: 2026,
+    image: "/ArtGallery/images/redmath.jpg",
+    description: ""
+  },
+        {
+    id: 10,
+    title: "No name",
+    artist: "You",
+    year: 2026,
+    image: "/ArtGallery/images/RedStorm.jpg",
+    description: "In Private Collection"
+  },
+        {
+    id: 11,
+    title: "No name",
+    artist: "You",
+    year: 2026,
+    image: "/ArtGallery/images/whitemoon1.jpg",
+    description: ""
+  },
+
+      {
+    id: 12,
+    title: "No name",
+    artist: "You",
+    year: 2026,
+    image: "/ArtGallery/images/yellow math2.jpg",
+    description: ""
+  },
     {
-    id: 21,
+    id: 13,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -8,7 +107,7 @@ export const artworks = [
     description: ""
   },
   {
-    id: 22,
+    id: 14,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -16,15 +115,15 @@ export const artworks = [
     description: ""
   },
     {
-    id: 3,
-    title: "No Name",
+    id: 15,
+    title: "No name",
     artist: "You",
     year: 2026,
     image: "/ArtGallery/images/greens2.jpg",
-    description: "Lagen van Jupiter"
+    description: ""
   },
   {
-    id: 23,
+    id: 16,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -32,12 +131,12 @@ export const artworks = [
     description: ""
   },
   {
-    id: 11,
-    title: "No Name",
+    id: 17,
+    title: "No name",
     artist: "You",
     year: 2026,
     image: "/ArtGallery/images/moon2.jpg",
-    description: "With Friends I"
+    description: ""
   },
     {
     id: 18,
@@ -56,63 +155,63 @@ export const artworks = [
     description: "green cross"
   },
   {
-    id: 1,
+    id: 20,
     title: "Face To Face",
     artist: "You",
     year: 2026,
     image: "/ArtGallery/images/face_to_face.jpg",
-    description: "Face To Face"
+    description: ""
   },
   {
-    id: 2,
+    id: 21,
     title: "Formaliteit",
     artist: "You",
     year: 2026,
     image: "/ArtGallery/images/formaliteit.jpg",
-    description: "Formaliteit"
+    description: ""
   },
   {
-    id: 5,
+    id: 22,
     title: "No name",
     artist: "You",
     year: 2026,
     image: "/ArtGallery//images/Art_pinkheart.jpg",
-    description: "With Friends III"
+    description: ""
   },
   {
-    id: 6,
+    id: 23,
     title: "No name",
     artist: "You",
     year: 2026,
     image: "/ArtGallery/images/storm.jpg",
-    description: "With Friends III"
+    description: ""
   },
   {
-    id: 8,
+    id: 24,
     title: "Roodkleurige Dans",
     artist: "You",
     year: 2026,
   image: "/ArtGallery/images/in/20260803_184304.jpg",
-    description: "Roodkleurige Dans"
+    description: ""
   },
   {
-    id: 10,
-    title: "Wilde Jungle",
+    id: 25,
+    title: "No name",
     artist: "You",
     year: 2026,
     image: "/ArtGallery/images/wilde_jungle.jpg",
-    description: "Wild Jungle"
+    description: ""
   },
   {
-    id: 12,
-    title: "Uit de Ogen van de Vogels",
+    id: 26,
+    title: "No name",
     artist: "You",
     year: 2026,
     image: "/ArtGallery/images/birdsview.jpg",
-    description: "Uit de Ogen van de Vogels"
+    description: ""
   },
   {
-    id: 13,
+    id: 27,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -120,7 +219,7 @@ export const artworks = [
     description: ""
   },
   {
-    id: 15,
+    id: 28,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -128,12 +227,12 @@ export const artworks = [
     description: ""
   },
   {
-    id: 16,
+    id: 29,
     title: "No Name",
     artist: "You",
     year: 2026,
     image: "/ArtGallery/images/20260725_191505.jpg",
-    description: "Uit de Ogen van de Vogels"
+    description: "In Private Collection"
   },
 
 
