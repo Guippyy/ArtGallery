@@ -1,6 +1,6 @@
 export const artworks = [
           {
-    id: 1,
+    id: 30,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -8,7 +8,7 @@ export const artworks = [
     description: ""
   },
       {
-    id: 1,
+    id: 29,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -16,7 +16,7 @@ export const artworks = [
     description: ""
   },
         {
-    id: 2,
+    id: 28,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -24,7 +24,7 @@ export const artworks = [
     description: "In Private Collection"
   },
         {
-    id: 3,
+    id: 27,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -32,7 +32,7 @@ export const artworks = [
     description: ""
   },
       {
-    id: 4,
+    id: 26,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -41,7 +41,7 @@ export const artworks = [
   },
 
         {
-    id: 5,
+    id: 25,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -50,7 +50,7 @@ export const artworks = [
   },
 
       {
-    id: 6,
+    id: 24,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -58,7 +58,7 @@ export const artworks = [
     description: "In Private Collection"
   },
         {
-    id: 7,
+    id: 23,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -66,7 +66,7 @@ export const artworks = [
     description: "In Private Collection"
   },
       {
-    id: 8,
+    id: 22,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -74,7 +74,7 @@ export const artworks = [
     description: ""
   },
         {
-    id: 9,
+    id: 21,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -82,7 +82,7 @@ export const artworks = [
     description: ""
   },
         {
-    id: 10,
+    id: 20,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -90,7 +90,7 @@ export const artworks = [
     description: "In Private Collection"
   },
         {
-    id: 11,
+    id: 19,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -99,7 +99,7 @@ export const artworks = [
   },
 
       {
-    id: 12,
+    id: 18,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -107,7 +107,7 @@ export const artworks = [
     description: ""
   },
     {
-    id: 13,
+    id: 17,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -115,7 +115,7 @@ export const artworks = [
     description: ""
   },
   {
-    id: 14,
+    id: 16,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -131,7 +131,7 @@ export const artworks = [
     description: ""
   },
   {
-    id: 16,
+    id: 14,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -139,7 +139,7 @@ export const artworks = [
     description: ""
   },
   {
-    id: 17,
+    id: 13,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -147,7 +147,7 @@ export const artworks = [
     description: ""
   },
     {
-    id: 18,
+    id: 12,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -155,7 +155,7 @@ export const artworks = [
     description: ""
   },
     {
-    id: 19,
+    id: 11,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -163,7 +163,7 @@ export const artworks = [
     description: "green cross"
   },
   {
-    id: 20,
+    id: 10,
     title: "Face To Face",
     artist: "You",
     year: 2026,
@@ -171,7 +171,7 @@ export const artworks = [
     description: ""
   },
   {
-    id: 21,
+    id: 9,
     title: "Formaliteit",
     artist: "You",
     year: 2026,
@@ -179,7 +179,7 @@ export const artworks = [
     description: ""
   },
   {
-    id: 22,
+    id: 8,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -187,7 +187,7 @@ export const artworks = [
     description: ""
   },
   {
-    id: 23,
+    id: 7,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -195,7 +195,7 @@ export const artworks = [
     description: ""
   },
   {
-    id: 24,
+    id: 6,
     title: "Roodkleurige Dans",
     artist: "You",
     year: 2026,
@@ -203,7 +203,7 @@ export const artworks = [
     description: ""
   },
   {
-    id: 25,
+    id: 5,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -211,7 +211,7 @@ export const artworks = [
     description: ""
   },
   {
-    id: 26,
+    id: 4,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -219,7 +219,7 @@ export const artworks = [
     description: ""
   },
   {
-    id: 27,
+    id: 3,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -227,7 +227,7 @@ export const artworks = [
     description: ""
   },
   {
-    id: 28,
+    id: 2,
     title: "No name",
     artist: "You",
     year: 2026,
@@ -235,7 +235,7 @@ export const artworks = [
     description: ""
   },
   {
-    id: 29,
+    id: 1,
     title: "No Name",
     artist: "You",
     year: 2026,
