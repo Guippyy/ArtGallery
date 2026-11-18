@@ -1,4 +1,12 @@
 export const artworks = [
+          {
+    id: 1,
+    title: "No name",
+    artist: "You",
+    year: 2026,
+    image: "/ArtGallery/images/fishes.jpg",
+    description: ""
+  },
       {
     id: 1,
     title: "No name",
